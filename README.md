@@ -14,4 +14,4 @@ Welcome to my GitHub! I'm a software engineer with a passion for diving deep int
 
 I'm always excited to collaborate, learn, and share knowledge. Whether you have a project idea, a question, or just want to chat tech, feel free to reach out!
 
-Let's build, automate, and learn together!
+Let's build, automate, and learn together! 👨‍💻👨‍💻
